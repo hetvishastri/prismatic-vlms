@@ -39,10 +39,9 @@ dependencies = [
     "rich",
     "sentencepiece",
     "timm==0.9.10",
-    "torch>=2.1.0",
-    "torchvision>=0.16.0",
+    "torchvision==0.16.0",
     "torchaudio",
-    "transformers>=4.38.1",
+    "transformers==4.34.1",
     "wandb"
 ]
 
